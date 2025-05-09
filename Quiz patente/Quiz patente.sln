@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz patente", "Quiz patente.csproj", "{0AF3FA46-A55C-4E88-9AC1-229DD8A8F709}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AF3FA46-A55C-4E88-9AC1-229DD8A8F709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF3FA46-A55C-4E88-9AC1-229DD8A8F709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF3FA46-A55C-4E88-9AC1-229DD8A8F709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF3FA46-A55C-4E88-9AC1-229DD8A8F709}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41F424B2-0C1B-4E06-8D90-21E3CF561572}
+	EndGlobalSection
+EndGlobal
